@@ -9,10 +9,11 @@
 # <h4 align="center"> Submitted by:  </h4>
 
 1. **Al-Arafat(Yeash):** 41-220300492
-2. **Arman Khan:**41230100843
-3. **Md Tushar:**41230301901
-4. **Md. Ratul:**41230201064
-5. **Md. Asif:**41220300574
+2. **Arman Khan:** 41230100843
+3. **Md Tushar:** 41230301901
+4. **Md. Ratul:** 41230201064
+
 
 # <h4 align="center"> Submitted To:  </h4>
-` Md. Tasin Sir`
+# <p align="center"> Md. Tasin Sir </p>
+
