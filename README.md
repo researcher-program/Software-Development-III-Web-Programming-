@@ -2,7 +2,7 @@
 
 # Software Requirements Specification (SRS)
 
-## Project Title: [Your Web Application Name]
+## Project Title: [Production Level Website]
 
 ### 1. Introduction
 * **1.1 Purpose:** A clear paragraph describing what the system is and the core
