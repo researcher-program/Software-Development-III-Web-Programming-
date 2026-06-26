@@ -1,8 +1,8 @@
-<img src="https://cdn.mos.cms.futurecdn.net/cpp3b2fv9VHK4oTMcfze9L-1200-80.png" width="300px" align=" center " alt="" srcset="">
+<img src="https://cdn.mos.cms.futurecdn.net/cpp3b2fv9VHK4oTMcfze9L-1200-80.png" width="300px" align=" center " alt=" Al - Arafat (Yeash) " srcset=" Computer Program">
 
 # Software Requirements Specification (SRS)
 
-## Project Title: [Your Web Application Name]
+## Project Title: [Production Level Website]
 
 ### 1. Introduction
 * **1.1 Purpose:** A clear paragraph describing what the system is and the core
