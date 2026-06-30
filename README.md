@@ -2,9 +2,9 @@
 
 # <h2 align="center"> Software Engineering ( WebProgramming) </h2>
 
-# <h3 align="center"> Week-1 & Lab-1:  Study Guide & Lab Manual </h3>
+# <h3 align="center"> Week-2 & Lab-2:  Study Guide & Lab Manual </h3>
 
-# <h4 align="center">Topic: Web Architecture & System Requirements Modeling </h4>
+# <h4 align="center">Topic:    Version Control(Git & GitHub) & Responsive Front-end Structure </h4>
 
 # <h5 align="center"> For  </h5>
 
@@ -18,5 +18,3 @@
 
 # <h4 align="center"> Submitted To:  </h4>
 # <p align="center"> Md. Tasin Sir </p>
-
-
