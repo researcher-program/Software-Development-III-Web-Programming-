@@ -1,24 +1,21 @@
-<img src="https://cdn.mos.cms.futurecdn.net/cpp3b2fv9VHK4oTMcfze9L-1200-80.png" width="300px" align=" center " alt=" Al - Arafat (Yeash) " srcset=" Computer Program">
+# <h1 align="center"> Northern University Bangladesh </h1>
 
-# Software Requirements Specification (SRS)
+# <h2 align="center"> Software Engineering ( WebProgramming) </h2>
 
-## Project Title: [Production Level Website]
+# <h3 align="center"> Week-2 & Lab-2:  Study Guide & Lab Manual </h3>
 
-### 1. Introduction
-* **1.1 Purpose:** A clear paragraph describing what the system is and the core
-problem it solves.
-* **1.2 Scope:** Outlining which boundaries are included in this project , and
-what is excluded.
-### 2. User Roles
-Describe the actors who interact with the system (e.g., Guest , Client ,
-Administrator).
-### 3. Functional Requirements
-* **FR-1:** [Requirement description]
-* **FR-2:** [Requirement description]
-...
-* **FR-8:** [Requirement description]
-### 4. Non-Functional Requirements
-* **NFR -1 (Security):** [Password encryption , SQL Injection protection targets]
-* **NFR -2 (Performance):** [Target page response times]
-* **NFR -3 (Responsiveness):** [Cross -device capabilities]
-* **NFR -4 (Compatibility):** [Supported browsers]
+# <h4 align="center">Topic:    Version Control(Git & GitHub) & Responsive Front-end Structure </h4>
+
+# <h5 align="center"> For  </h5>
+
+# <h4 align="center"> Submitted by:  </h4>
+
+1. **Al-Arafat(Yeash):** 41-220300492
+2. **Arman Khan:** 41-230100843
+3. **Md Tusar:** 41-230301901
+4. **Md. Ratul:** 41-230201064
+
+
+# <h4 align="center"> Submitted To:  </h4>
+# <p align="center"> Md. Tasin Sir </p>
+
