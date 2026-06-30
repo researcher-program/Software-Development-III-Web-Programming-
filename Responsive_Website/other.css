@@ -1,0 +1,35 @@
+
+*, *::before , *::after {
+box-sizing: border -box;
+margin: 0;
+padding: 0;
+}
+.header -container {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+background-color: #14326e;
+padding: 1rem 2rem;
+}
+.dashboard -grid {
+display: grid;
+grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+gap: 20px;
+}
+
+
+/* Standard styles for mobile viewports (widths under 768px) */
+.main-wrapper {
+display: flex;
+flex-direction: column; /* Stack vertically on small screens */
+padding: 1rem;
+}
+/* Media Query breakpoint for Tablet/Desktop sizes (widths 768px and up) */
+@media (min-width: 768px) {
+.main-wrapper {
+flex-direction: row; /* Display side-by-side on larger screens */
+padding: 2rem;
+}
+}
+
